@@ -1,4 +1,7 @@
-## Realizado por: Diego Furigo do Nascimento - RM: 558755
+## Realizado por: 
+- Diego Furigo do Nascimento - RM: 558755
+- Melissa Pereira Costa - RM555656
+- Lu Vieira - RM558935
 
 # 📊 Machine Learning e Análise de Dados — Consumo de Energia
 
